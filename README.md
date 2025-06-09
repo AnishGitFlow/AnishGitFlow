@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Anish Chandlekar
 ### *Data Science Graduate Student | Machine Learning Enthusiast | Turning Data into Insights*  
 
-![Data Science Banner](https://via.placeholder.com/1440x480.png?text=Data+Science+%7C+ML+%7C+AI)  
+![Data Science Banner](<img src="banner_github.png" alt="GitHub Banner" width="100%" />)  
 
 ---
 
