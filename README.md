@@ -16,8 +16,8 @@ Here are some projects I’m proud of:
 - **[Project 1](https://github.com/anishgitflow/project1)** - A brief description (e.g., "AI-powered chatbot using NLP").  
 - **[Project 2](https://github.com/anishgitflow/project2)** - A brief description (e.g., "Open-source CLI tool for developers").  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?anishgitflow=anishgitflow&show_icons=true&theme=dark)](https://github.com/anishgitflow)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?anishgitflow=anishgitflow&layout=compact&theme=dark)](https://github.com/anishgitflow)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishgitflow&show_icons=true&theme=dark)](https://github.com/anishgitflow)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishgitflow&layout=compact&theme=dark)](https://github.com/anishgitflow)
 
 ## � Interests & Goals
 - 🌱 Currently learning: "Deep Learning".  
