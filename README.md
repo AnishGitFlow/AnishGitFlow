@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] 
+# 👋 Hi, I'm Anish
 
 📍 Pune, Maharashtra, India
 💼 Data Science | Machine Learning | AI
@@ -7,9 +7,9 @@
 I'm a passionate about "machine learning". I love turning ideas into reality with code and sharing knowledge with the community.
 
 **Specialties:**  
-[🔹 Programming Languages: Python, R, SQL]  
-[🔹 Technologies/Frameworks: Scikit-Learn, TensorFlow]  
-[🔹 Tools: e.g., Docker, Git, AWS]
+🔹 Programming Languages: Python, R, SQL
+🔹 Technologies/Frameworks: Scikit-Learn, TensorFlow 
+🔹 Tools: e.g., Docker, Git, AWS
 
 ## 🚀 Featured Projects
 Here are some projects I’m proud of:
