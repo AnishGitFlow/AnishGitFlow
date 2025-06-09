@@ -16,8 +16,8 @@ Here are some projects I’m proud of:
 - **[Project 1](https://github.com/yourusername/project1)** - A brief description (e.g., "AI-powered chatbot using NLP").  
 - **[Project 2](https://github.com/yourusername/project2)** - A brief description (e.g., "Open-source CLI tool for developers").  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusernam&show_icons=true&theme=dark)](https://github.com/anishgitflow)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/anishgitflow)
 
 ## � Interests & Goals
 - 🌱 Currently learning: [e.g., "Rust" | "Cloud Architecture"].  
