@@ -32,23 +32,6 @@ I’m a **Master's student in Data Science** at Savitribai Phule Pune University
 
 ---
 
-## 📂 Projects  
-### 1. [Predictive Maintenance for Industrial Equipment](https://github.com/your/repo)  
-![Project GIF](https://via.placeholder.com/600x300.png?text=EDA+%7C+Feature+Engineering+%7C+Model+Training)  
-*A time-series forecasting model to predict equipment failure (Accuracy: 92%).*  
-**Tech**: Python, Prophet, LSTM | [📄 Paper](link_to_paper_if_any)  
-
-### 2. [Fake News Detection](https://github.com/your/repo)  
-![NLP Demo](https://via.placeholder.com/600x300.png?text=Text+Vectorization+%7C+BERT+%7C+Confusion+Matrix)  
-*An NLP pipeline to classify news articles using transformer models.*  
-**Tech**: BERT, HuggingFace, Streamlit  
-
-### 3. [University Course Recommender System](https://github.com/your/repo)  
-*(Collaborative filtering project for academic courses.)*  
-**Tech**: Surprise Library, Pandas  
-
----
-
 ## 📫 Let’s Connect  
 📧 [Email](mailto:asc14088@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/anish--chandlekar)  
 📝 [Kaggle](https://kaggle.com/anishchandlekar) | ✍️ [Medium/Towards Data Science](https://medium.com/@anishchandlekar)  
