@@ -39,8 +39,6 @@ I’m a **Master's student in Data Science** at Savitribai Phule Pune University
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishgitflow&show_icons=true&hide=issues&theme=radical&hide_border=true)](https://github.com/yourusername)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishgitflow&layout=compact&theme=radical&hide_border=true)](https://github.com/anishgitflow)  
 
-**Profile views**: ![View count](https://komarev.com/ghpvc/?username=AnishGitFlow)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
